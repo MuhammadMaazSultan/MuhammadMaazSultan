@@ -3,7 +3,6 @@
 
 <br/>
 
-<sub>`class AspiringAIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.level = "early-stage, still learning"` &nbsp;&nbsp;`self.focus = "understanding agentic and RAG systems from the ground up"`</sub>
 </div>
 
 <br/>
