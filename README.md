@@ -1,11 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=50" width="100%"/>
-</div>
+
+<br/>
 
 <sub>`class AspiringAIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.level = "early-stage, still learning"` &nbsp;&nbsp;`self.focus = "understanding agentic and RAG systems from the ground up"`</sub>
-
 </div>
-
 
 <br/>
 
@@ -52,8 +51,9 @@
 <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logoColor=22D3EE" />
 <img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logoColor=22D3EE" />
 
-<br/>
+</div>
 
+<br/>
 
 ## `~/connect`
 
@@ -61,6 +61,8 @@
 |:--|:--|
 | Email | muhammadmaazsultan11133@gmail.com |
 | LinkedIn | [linkedin.com](https://www.linkedin.com/in/muhammad-maaz-sultan-b71a353a2/) |
+
+<br/>
 
 <div align="center">
 <sub>Building systems that reason, retrieve, and act — one node at a time.</sub>
