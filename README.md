@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%C2%B7%&descAlignY=62&descSize=16&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=40&desc=Aspiring%20AI%20Engineer2%B7%&descAlignY=62&descSize=16&descColor=94A3B8" width="100%"/>
 
 <sub>`class AspiringAIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.level = "early-stage, still learning"` &nbsp;&nbsp;`self.focus = "understanding agentic and RAG systems from the ground up"`</sub>
 
