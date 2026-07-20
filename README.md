@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Generative%20AI%20Developer&descAlignY=62&descSize=16&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=40&desc=Aspiring%20AI%20Engineer%20%C2%B7%20Learning%20Generative%20AI&descAlignY=62&descSize=16&descColor=94A3B8" width="100%"/>
 
-<sub>`class AIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.focus = "autonomous, stateful, multi-agent systems"`</sub>
+<sub>`class AspiringAIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.level = "early-stage, still learning"` &nbsp;&nbsp;`self.focus = "understanding agentic and RAG systems from the ground up"`</sub>
 
 </div>
 
@@ -12,10 +12,11 @@
 
 | path | description |
 |:--|:--|
-| `./education` | BS Computer Science — The Islamia University of Bahawalpur &nbsp;·&nbsp;  |
+| `./education` | BS Computer Science — The Islamia University of Bahawalpur &nbsp;·&nbsp; **CGPA 3.82/4.00** |
+| `./status` | Early in the journey — still learning, not an advanced or production-scale engineer yet |
 | `./current-focus` | Moving beyond static prompt engineering into orchestrated, stateful multi-agent systems |
 | `./domain` | Retrieval-Augmented Generation, Vector Search, Agentic Workflows, Applied Deep Learning |
-| `./philosophy` | Ship grounded, evaluable systems — not demos |
+| `./philosophy` | Build small, understand deeply, then scale up — no shortcuts |
 
 <br/>
 
@@ -25,31 +26,38 @@
 ```
 LangGraph · LangChain · FAISS · ChromaDB · Vector Search · Semantic Chunking
 ```
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/ChromaDB-0F172A?style=flat-square&logoColor=22D3EE" />
 
 **Machine Learning & Deep Learning**
 ```
- TensorFlow (Keras) · Scikit-learn
+PyTorch · TensorFlow (Keras) · Scikit-learn
 ```
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=22D3EE" />
 
 **Languages & Core Tooling**
 ```
 Python · SQL · PostgreSQL · Git / GitHub · Jupyter
 ```
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=22D3EE" />
 
 **Data & Analysis**
 ```
 Pandas · NumPy · Matplotlib · Seaborn
 ```
-
-<div align="left">
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=22D3EE" />
-</div>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Seaborn-0F172A?style=flat-square&logoColor=22D3EE" />
 
 <br/>
 
@@ -114,7 +122,7 @@ Generation  → LLM synthesis grounded in retrieved context
 | channel | endpoint |
 |:--|:--|
 | Email | muhammadmaazsultan11133@gmail.com |
-| LinkedIn | [linkedin.com/in/your-profile-handle](https://www.linkedin.com/in/muhammad-maaz-sultan-b71a353a2/) |
+| LinkedIn | [linkedin.com](https://www.linkedin.com/in/muhammad-maaz-sultan-b71a353a2/) |
 | GitHub | [github.com/MuhammadMaazSultan](https://github.com/MuhammadMaazSultan) |
 
 <div align="center">
