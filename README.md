@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=50" width="100%"/>
 </div>
 
