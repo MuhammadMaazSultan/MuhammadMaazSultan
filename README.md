@@ -1,95 +1,75 @@
-<!-- 🌊 Animated Header -->
+<!-- 📐 Architectural Blueprint Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=180&section=header&text=Muhammad%20Maaz%20Sultan&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=051923&secondaryColor=00a6fb&height=140&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=28&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-<!--  Intro -->
-<h2 align="center">HAVE A PLEASANT DAY</h2>
-
-<h3 align="center">
-AI Engineer | Generative AI & RAG Developer | Data-Driven Problem Solver
-</h3>
-
-<!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Agentic+AI+%26+RAG+Pipelines;Exploring+Deep+Learning+%26+NLP;Always+Learning+%26+Growing" />
+  <b>AI Engineer</b> • Generative AI & RAG Developer • Data-Driven Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00A6FB&center=true&vCenter=true&width=450&height=30&lines=System.Pipeline.Status%3A+Active;Orchestrating+Multi-Agent+Graphs;Optimizing+Context+Retrieval+Streams" />
 </p>
 
 ---
 
-## 🛠️ About Me
+## 🧭 Project Blueprint & Core Focus
 
-- 🔭 Working on **Agentic workflows, advanced RAG architectures, and predictive ML models**.
-- 🌱 Currently expanding my knowledge in **scaling and deploying enterprise AI systems**.
-- 🤝 Open to collaborate on **Generative AI, LangGraph Agents, and Machine Learning projects**.
-- 💬 Ask me about **LangChain, LangGraph, Vector Databases, and PyTorch**.
-- 📫 Email: **muhammadmaazsultan11133@gmail.com**[cite: 1]
-- 🌐 Portfolio: [GitHub](https://github.com/MuhammadMaazSultan)[cite: 1]
+I am a Computer Science Undergraduate (3.82/4.00 CGPA) specializing in the transition from static LLM prompting to building autonomous, graph-driven intelligent systems. 
+
+| Directory | Vector Path | Focus Area |
+| :--- | :--- | :--- |
+| 🚀 **Current Objective** | `/production/agents` | Engineering resilient, stateful AI workflows and advanced RAG architectures. |
+| 🌱 **Skill Expansion** | `/learning/scale` | Mastering enterprise deployment optimization and high-throughput vector search tuning[cite: 1]. |
+| 🤝 **Collaboration** | `/open/source` | Open to partner on advanced GenAI, LangGraph, and Deep Learning initiatives[cite: 1]. |
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Stack Architecture
+
+### 🔄 GenAI & Agentic Orchestration
+`LangGraph (Stateful Frameworks)` • `LangChain` • `FAISS` • `ChromaDB` • `Vector Search & Semantic Chunking`[cite: 1]
+
+### 🧠 Core Modeling & Deep Learning
+`PyTorch` • `TensorFlow (Keras)` • `Scikit-learn` • `Supervised/Unsupervised Pipeline Optimization`[cite: 1]
+
+### 📊 Data, Infrastructure & Engines
+`Python` • `SQL` • `PostgreSQL` • `Git / GitHub` • `Pandas` • `NumPy` • `Matplotlib / Seaborn`[cite: 1]
+
+---
+
+## 🔬 Core System Implementations
+
+### 🦜 Autonomous Multi-Agent Frameworks
+* **Architecture:** Developed cyclic, stateful LLM computational graphs utilizing **LangGraph**[cite: 1].
+* **Mechanics:** Engineered conditional routing layers and persistent graph state memory management to handle dynamic exception fallback protocols.
+
+### 🎥 AI YouTube Assistant (Advanced RAG System)[cite: 1]
+* **Pipeline:** Built an end-to-end document ingestion engine using semantic text splitting structures to preserve document context[cite: 1].
+* **Retrieval:** Generated dense vector matrices using `sentence-transformers` and routed high-speed queries through a localized **FAISS** index[cite: 1].
+
+### 📉 Customer Churn Prediction & Feature Engineering[cite: 1]
+* **Imbalance Resolution:** Mitigated severe training set distribution skew by implementing a **SMOTE** over-sampling protocol layer[cite: 1].
+* **Hyperparameter Tuning:** Conducted multi-dimensional space searches with `GridSearchCV` on XGBoost and Random Forest estimators to maximize critical $F_1$ metrics[cite: 1].
+
+---
+
+## 📊 Git Engine Status
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazSultan&show_icons=true&theme=transparent&icon_color=00a6fb&title_color=00a6fb&text_color=7f8c8d&bg_color=ffffff00" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMaazSultan&theme=transparent&streak_color=00a6fb&title_color=00a6fb&text_color=7f8c8d&background=ffffff00" height="155"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Secure a Node
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github" />
-</p>
-
-<p align="center">
-  <!-- Core Frameworks -->
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" height="30"/>
-  <!-- GenAI / LLM -->
-  <img src="https://img.shields.io/badge/🦜🔗_LangChain-🎨?style=flat" height="30"/>
-  <img src="https://img.shields.io/badge/🦜🕸️_LangGraph-Complex_Agents-orange?style=flat" height="30"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector_DB-blue?style=flat" height="30"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-green?style=flat" height="30"/>
-</p>
+* 📬 **Direct Inquiries:** [muhammadmaazsultan11133@gmail.com](mailto:muhammadmaazsultan11133@gmail.com)[cite: 1]
+* 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🦜 Agentic AI & LangGraph Workflows
-* Developed stateful, multi-actor LLM applications using **LangGraph**[cite: 1].
-* Built complex cyclic graphs for decision-making agents with built-in memory systems, error recovery, and human-in-the-loop capabilities.
-
-### 🎥 AI YouTube Assistant (RAG-Based)[cite: 1]
-* Engineered an end-to-end Retrieval-Augmented Generation system that processes video transcripts to generate grounded, context-aware answers[cite: 1].
-* Utilized recursive text splitting, sentence-transformers, and **FAISS** vector stores for ultra-fast, high-accuracy context retrieval[cite: 1].
-
-### 📉 Telco Customer Churn Prediction Pipeline[cite: 1]
-* Built a complete classification pipeline using **Scikit-learn**, addressing intense class imbalance via **SMOTE**[cite: 1].
-* Optimized performance across competitive baselines (XGBoost, Random Forest) via **GridSearchCV** to maximize critical F1-scores[cite: 1].
-
----
-
-## 📈 GitHub Insights
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazSultan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMaazSultan&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🎯 Personal Motto
-
-<p align="center">
-  <i>"Moving past static prompts—building dynamic, graph-driven intelligent agents for a smarter tomorrow."</i>
-</p>
-
-<!-- 🌊 Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer"/>
+  <sub><i>"Moving past static configurations — building dynamic, stateful intelligence architectures."</i></sub>
 </p>
