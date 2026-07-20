@@ -22,42 +22,50 @@
 
 ## `~/stack`
 
-**Generative AI & Orchestration**
-```
-LangGraph · LangChain · FAISS · ChromaDB · Vector Search · Semantic Chunking
-```
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/FAISS-0F172A?style=flat-square&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/ChromaDB-0F172A?style=flat-square&logoColor=22D3EE" />
+<div align="center">
 
-**Machine Learning & Deep Learning**
-```
-PyTorch · TensorFlow (Keras) · Scikit-learn
-```
-<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=22D3EE" />
+<br/>
 
-**Languages & Core Tooling**
-```
-Python · SQL · PostgreSQL · Git / GitHub · Jupyter
-```
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=22D3EE" />
+<sub>GENERATIVE AI & ORCHESTRATION</sub>
 
-**Data & Analysis**
-```
-Pandas · NumPy · Matplotlib · Seaborn
-```
-<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Seaborn-0F172A?style=flat-square&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/ChromaDB-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Vector_Search-0F172A?style=for-the-badge&logoColor=22D3EE" />
+
+<br/><br/>
+
+<sub>MACHINE LEARNING & DEEP LEARNING</sub>
+
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Keras-0F172A?style=for-the-badge&logo=keras&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=22D3EE" />
+
+<br/><br/>
+
+<sub>LANGUAGES & CORE TOOLING</sub>
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=22D3EE" />
+
+<br/><br/>
+
+<sub>DATA & ANALYSIS</sub>
+
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge&logoColor=22D3EE" />
+
+<br/>
+
+</div>
 
 <br/>
 
@@ -97,6 +105,18 @@ Generation  → LLM synthesis grounded in retrieved context
 
 ---
 
+### 03 · Telco Customer Churn Prediction System
+
+A complete predictive ML pipeline addressing a real-world classification problem under significant class imbalance.
+
+**Architecture / Pipeline**
+```
+Preprocessing  → scaling, encoding, imputation
+Balancing      → SMOTE applied to correct class imbalance
+Modeling       → Logistic Regression, Random Forest, XGBoost
+Optimization   → GridSearchCV tuning targeting F1-score
+Evaluation     → confusion matrices, precision-recall analysis
+```
 
 <br/>
 
