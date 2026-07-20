@@ -1,75 +1,122 @@
-<!-- 📐 Architectural Blueprint Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=051923&secondaryColor=00a6fb&height=140&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=28&fontColor=ffffff&fontAlignY=40" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineer</b> • Generative AI & RAG Developer • Data-Driven Problem Solver
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,100:0F172A&height=130&section=header&text=MUHAMMAD%20MAAZ%20SULTAN&fontSize=34&fontColor=22D3EE&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Generative%20AI%20Developer&descAlignY=62&descSize=16&descColor=94A3B8" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00A6FB&center=true&vCenter=true&width=450&height=30&lines=System.Pipeline.Status%3A+Active;Orchestrating+Multi-Agent+Graphs;Optimizing+Context+Retrieval+Streams" />
-</p>
+<sub>`class AIEngineer:` &nbsp;&nbsp;`def __init__(self):` &nbsp;&nbsp;`self.focus = "autonomous, stateful, multi-agent systems"`</sub>
 
----
+</div>
 
-## 🧭 Project Blueprint & Core Focus
+<br/>
 
-I am a Computer Science Undergraduate (3.82/4.00 CGPA) specializing in the transition from static LLM prompting to building autonomous, graph-driven intelligent systems. 
+## `~/whoami`
 
-| Directory | Vector Path | Focus Area |
-| :--- | :--- | :--- |
-| 🚀 **Current Objective** | `/production/agents` | Engineering resilient, stateful AI workflows and advanced RAG architectures. |
-| 🌱 **Skill Expansion** | `/learning/scale` | Mastering enterprise deployment optimization and high-throughput vector search tuning[cite: 1]. |
-| 🤝 **Collaboration** | `/open/source` | Open to partner on advanced GenAI, LangGraph, and Deep Learning initiatives[cite: 1]. |
+| path | description |
+|:--|:--|
+| `./education` | BS Computer Science — The Islamia University of Bahawalpur &nbsp;·&nbsp;  |
+| `./current-focus` | Moving beyond static prompt engineering into orchestrated, stateful multi-agent systems |
+| `./domain` | Retrieval-Augmented Generation, Vector Search, Agentic Workflows, Applied Deep Learning |
+| `./philosophy` | Ship grounded, evaluable systems — not demos |
 
----
+<br/>
 
-## 🛠️ Stack Architecture
+## `~/stack`
 
-### 🔄 GenAI & Agentic Orchestration
-`LangGraph (Stateful Frameworks)` • `LangChain` • `FAISS` • `ChromaDB` • `Vector Search & Semantic Chunking`[cite: 1]
+**Generative AI & Orchestration**
+```
+LangGraph · LangChain · FAISS · ChromaDB · Vector Search · Semantic Chunking
+```
 
-### 🧠 Core Modeling & Deep Learning
-`PyTorch` • `TensorFlow (Keras)` • `Scikit-learn` • `Supervised/Unsupervised Pipeline Optimization`[cite: 1]
+**Machine Learning & Deep Learning**
+```
+ TensorFlow (Keras) · Scikit-learn
+```
 
-### 📊 Data, Infrastructure & Engines
-`Python` • `SQL` • `PostgreSQL` • `Git / GitHub` • `Pandas` • `NumPy` • `Matplotlib / Seaborn`[cite: 1]
+**Languages & Core Tooling**
+```
+Python · SQL · PostgreSQL · Git / GitHub · Jupyter
+```
 
----
+**Data & Analysis**
+```
+Pandas · NumPy · Matplotlib · Seaborn
+```
 
-## 🔬 Core System Implementations
+<div align="left">
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=22D3EE" />
+</div>
 
-### 🦜 Autonomous Multi-Agent Frameworks
-* **Architecture:** Developed cyclic, stateful LLM computational graphs utilizing **LangGraph**[cite: 1].
-* **Mechanics:** Engineered conditional routing layers and persistent graph state memory management to handle dynamic exception fallback protocols.
-
-### 🎥 AI YouTube Assistant (Advanced RAG System)[cite: 1]
-* **Pipeline:** Built an end-to-end document ingestion engine using semantic text splitting structures to preserve document context[cite: 1].
-* **Retrieval:** Generated dense vector matrices using `sentence-transformers` and routed high-speed queries through a localized **FAISS** index[cite: 1].
-
-### 📉 Customer Churn Prediction & Feature Engineering[cite: 1]
-* **Imbalance Resolution:** Mitigated severe training set distribution skew by implementing a **SMOTE** over-sampling protocol layer[cite: 1].
-* **Hyperparameter Tuning:** Conducted multi-dimensional space searches with `GridSearchCV` on XGBoost and Random Forest estimators to maximize critical $F_1$ metrics[cite: 1].
-
----
-
-## 📊 Git Engine Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazSultan&show_icons=true&theme=transparent&icon_color=00a6fb&title_color=00a6fb&text_color=7f8c8d&bg_color=ffffff00" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMaazSultan&theme=transparent&streak_color=00a6fb&title_color=00a6fb&text_color=7f8c8d&background=ffffff00" height="155"/>
-</p>
+<br/>
 
 ---
 
-## 🌐 Secure a Node
+## `~/projects`
 
-* 📬 **Direct Inquiries:** [muhammadmaazsultan11133@gmail.com](mailto:muhammadmaazsultan11133@gmail.com)[cite: 1]
-* 💼 **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+### 01 · Autonomous Blog Writing & Research Agent
+**`Current Focus`**
+
+A stateful, cyclic multi-agent system built on **LangGraph**, designed to move past single-shot LLM calls into a coordinated, self-directed workflow.
+
+**Architecture / Pipeline**
+```
+Planning Node   → maps content strategy and defines execution sub-goals
+Research Node   → automated retrieval and synthesis of source material
+Writer Node     → structured, context-grounded generation
+```
+- Explicit state-machine memory carried across nodes
+- Conditional routing logic governing transitions between planning, research, and writing phases
+- Designed as a foundation for extensible, multi-agent orchestration patterns
 
 ---
 
-<p align="center">
-  <sub><i>"Moving past static configurations — building dynamic, stateful intelligence architectures."</i></sub>
-</p>
+### 02 · AI YouTube Assistant — RAG-Based Capstone
+
+An end-to-end Retrieval-Augmented Generation system that turns raw YouTube transcripts into a queryable, context-aware knowledge base.
+
+**Architecture / Pipeline**
+```
+Ingestion   → transcript extraction and preprocessing
+Chunking    → recursive text splitting to preserve contextual integrity
+Embedding   → dense vector generation via sentence-transformers
+Retrieval   → localized FAISS index for high-speed semantic search
+Generation  → LLM synthesis grounded in retrieved context
+```
+
+---
+
+
+<br/>
+
+---
+
+## `~/metrics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadMaazSultan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMaazSultan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8" width="38%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMaazSultan&theme=tokyonight&hide_border=true&background=0F172A&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="70%"/>
+
+</div>
+
+<br/>
+
+---
+
+## `~/connect`
+
+| channel | endpoint |
+|:--|:--|
+| Email | muhammadmaazsultan11133@gmail.com |
+| LinkedIn | [linkedin.com/in/your-profile-handle](https://www.linkedin.com/in/muhammad-maaz-sultan-b71a353a2/) |
+| GitHub | [github.com/MuhammadMaazSultan](https://github.com/MuhammadMaazSultan) |
+
+<div align="center">
+<sub>Building systems that reason, retrieve, and act — one node at a time.</sub>
+</div>
